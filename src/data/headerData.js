@@ -3,8 +3,8 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = 
 {
     name: 'Mahek Suchdev',
-    title: "Turning growth ideas into profitable realities.",
+    title: "Forecast. Optimize. Deliver.",
     desciption:"",
-    image: 'https://raw.githubusercontent.com/rk-makani/assets/main/photos/main-photo.jpg',
+    image: 'https://github.com/m-such/assets/blob/main/images/1770941040765.jpg',
     resumePdf: resume
 }
