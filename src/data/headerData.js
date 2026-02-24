@@ -5,6 +5,6 @@ export const headerData =
     name: 'Mahek Suchdev',
     title: "Forecast. Optimize. Deliver.",
     desciption:"",
-    image: 'https://github.com/m-such/assets/blob/main/images/1770941040765.jpg',
+    image: 'https://raw.githubusercontent.com/m-such/assets/main/images/1770941040765.jpg',
     resumePdf: resume
 }
